@@ -1,4 +1,4 @@
-
+import React from 'react';
 import './App.css';
 import Intro from './komponendid/intro/intro';
 import About from './komponendid/about/about';
