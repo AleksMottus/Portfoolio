@@ -1,7 +1,7 @@
 import React from 'react'
 import './about.css'
 import cert from '../../pildid/cert.png'
-import pic from '../../pildid/pictureplaceholder.jpg'
+import raba from '../../pildid/raba.jpg'
 
 function About() {
   return (
@@ -9,7 +9,7 @@ function About() {
         <div className="a-left">
             <div className="a-card bg"></div>
             <div className="a-card">
-                <img className='a-image' src={pic} alt="" />
+                <img className='a-image' src={raba} alt="" />
             </div>
         </div>
         <div className="a-right">

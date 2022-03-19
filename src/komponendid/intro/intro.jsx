@@ -1,6 +1,6 @@
 import React from "react";
 import "./intro.css";
-import pic from '../../pildid/pictureplaceholder.jpg'
+import me from '../../pildid/minaB.png'
 
 const Intro = () => {
   return (
@@ -84,7 +84,7 @@ const Intro = () => {
       </div>
       <div className="i-right">
         <div className="i-bg"></div>
-        <img src={pic} alt="" className="i-image" />
+        <img src={me} alt="" className="i-image" />
       </div>
     </div>
   );

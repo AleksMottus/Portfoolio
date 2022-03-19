@@ -86,7 +86,7 @@
         padding: 20px;
     }
     .a-image{
-        padding-left: 30%;
+        display: none;
     }
     
 }
