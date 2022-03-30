@@ -26,7 +26,7 @@ export const products =[
     },
     {
         id:6,
-        img: "https://i.ibb.co/V9yQdqk/pingviinid.png",
-        link:"https://aleksmottus.github.io/Veebiarendus-/Kodune03/kodune04.html",
+        img: "https://i.ibb.co/z7j5sPk/Joogiapp.png",
+        link:"https://aleksmottus.netlify.app/",
     },
 ]

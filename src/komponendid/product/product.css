@@ -26,6 +26,7 @@
 .p-img{
     width: 100% ;
     transition: all 2s ease;
+    height: 100%;
 }
 .p:hover .p-img{
     transform: translateY(-20%);
