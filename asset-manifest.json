@@ -1,7 +1,7 @@
 {
-  "main.css": "/Portfoolio/static/css/main.01372bc7.chunk.css",
-  "main.js": "/Portfoolio/static/js/main.e7133165.chunk.js",
-  "main.js.map": "/Portfoolio/static/js/main.e7133165.chunk.js.map",
+  "main.css": "/Portfoolio/static/css/main.b7553bac.chunk.css",
+  "main.js": "/Portfoolio/static/js/main.d2cc705f.chunk.js",
+  "main.js.map": "/Portfoolio/static/js/main.d2cc705f.chunk.js.map",
   "static/js/1.91d1d4c5.chunk.js": "/Portfoolio/static/js/1.91d1d4c5.chunk.js",
   "static/js/1.91d1d4c5.chunk.js.map": "/Portfoolio/static/js/1.91d1d4c5.chunk.js.map",
   "static/js/2.33b1af45.chunk.js": "/Portfoolio/static/js/2.33b1af45.chunk.js",
@@ -14,8 +14,8 @@
   "static/media/phone.jpg": "/Portfoolio/static/media/phone.1379e1ce.jpg",
   "static/media/location.jpg": "/Portfoolio/static/media/location.218ab72c.jpg",
   "static/media/kuu.jpg": "/Portfoolio/static/media/kuu.1c98d07b.jpg",
-  "static/css/main.01372bc7.chunk.css.map": "/Portfoolio/static/css/main.01372bc7.chunk.css.map",
+  "static/css/main.b7553bac.chunk.css.map": "/Portfoolio/static/css/main.b7553bac.chunk.css.map",
   "index.html": "/Portfoolio/index.html",
-  "precache-manifest.f7a788ac1b00cbe69bade077111e786b.js": "/Portfoolio/precache-manifest.f7a788ac1b00cbe69bade077111e786b.js",
+  "precache-manifest.bdb6df5617b7a19db75e547cd048d2e7.js": "/Portfoolio/precache-manifest.bdb6df5617b7a19db75e547cd048d2e7.js",
   "service-worker.js": "/Portfoolio/service-worker.js"
 }
